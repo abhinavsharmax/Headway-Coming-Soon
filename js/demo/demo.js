@@ -7,7 +7,7 @@
 // Last Update: May 2023
 // This product is available exclusively on Themeforest
 // Author: mix_design
-// Author URI: https://themeforest.net/user/mix_design
+// Author URI: https://polardot.in
 // File name: demo.js
 // ------------------------------------------------
 
